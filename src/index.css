@@ -1,0 +1,24 @@
+html {
+  font-size: 62.5%;
+}
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.4rem;
+  font-family: "Poppins", sans-serif;
+  margin: 80px;
+}
+form {
+  margin: 0 auto;
+  position: relative;
+}
+input,
+select {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2rem;
+}
